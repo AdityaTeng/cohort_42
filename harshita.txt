@@ -1,0 +1,3 @@
+Hi 
+This is a new sample file created by harshita
+Lets try using it with GIT
