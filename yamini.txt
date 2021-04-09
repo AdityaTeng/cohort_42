@@ -1,0 +1,3 @@
+First GIT practical.
+This is at 18:16 pm.
+New line bing added.
